@@ -1,0 +1,95 @@
+h2 {
+    margin-left: 30px;
+    color: #7C7135;
+    text-transform: uppercase;
+    text-shadow: 3px 7px 5px #fbd5e5;
+    letter-spacing: 2px;
+}
+
+
+.carrusel {
+    width: 95vw;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    margin-left: 20px;
+}
+
+.carrusel::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+.carrusel::-webkit-scrollbar-thumb {
+    background: #7C7135;
+    border-radius: 10px;
+}
+.carrusel::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.carrusel figure {
+    scroll-snap-align: center;
+    flex-shrink: 0;
+    width: 89vw;
+    height: 700px;
+    margin-right: 10px;
+    border-radius: 10px;
+    transform-origin: center center;
+    transform: scale(1);
+    transition: transform 0.5s;
+    position: relative;
+}
+
+.carrusel img {
+    width: 100%;
+    height: 650px;
+    padding: 0;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+figcaption {
+    text-align: center;
+}
+
+@media only screen and (min-width: 1020px) {
+    .carrusel {
+        width: initial;
+        overflow-x: initial;
+        scroll-snap-type: initial;
+        scroll-behavior: initial;
+        -webkit-overflow-scrolling: initial;
+        margin-left: initial;
+        display: grid;
+        grid-template-columns: repeat(3, min(30vw, 450px));
+        grid-template-rows: repeat(12, max(250px, 20vw));
+        column-gap: 15px;
+        row-gap: 40px;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+    
+    .carrusel figure {
+        scroll-snap-align: initial;
+        flex-shrink: initial;
+        width: 100%;
+        height: 100%;
+        margin-right: initial;
+        border-radius: initial;
+        transform-origin: initial;
+        transform: initial;
+        position: initial;
+        margin: 0;
+    }
+    
+    .carrusel img {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        border-radius: initial;
+        object-fit: cover;
+    }
+
+}

@@ -1,0 +1,38 @@
+footer {
+    padding-bottom: 10px;
+    background-color: #E9D97C;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer h3, footer h4 {
+    margin: 0;
+    font-size: 14px;
+}
+
+footer a {
+    font-size: 14px;
+    text-decoration: underline;
+    color: #7C7135;
+}
+
+footer a:hover {
+    color: #7C713588;
+}
+
+footer button {
+    background-color: transparent;
+    border: none;
+    color: #000;
+    font-size: 14px;
+    cursor: pointer;
+    position: inherit;
+    height: auto;
+    text-decoration: underline;
+}
+
+footer .terminos ul {
+    list-style: none;
+}

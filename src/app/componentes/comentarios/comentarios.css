@@ -1,0 +1,59 @@
+.articleComentarios {
+    width: 90vw;
+    height: 500px;
+    overflow-y: scroll;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 15px;
+    border-radius: 15px;
+    border: 2px solid #7C7135;
+    background-color: #FFEEEE;
+    margin-bottom: 30px;
+    padding: 10px 5px;
+}
+
+.articleComentarios div {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px;
+}
+
+.articleComentarios div h3, .articleComentarios div p {
+    margin: 0;
+    width: 100%;
+    text-align: start;
+}
+
+.articleComentarios div span {
+    position: initial;
+    transform: initial;
+    color: #aaa;
+}
+
+.articleComentarios::-webkit-scrollbar {
+    width: 10px;
+    height: 5px;
+}
+.articleComentarios::-webkit-scrollbar-thumb {
+    background: #7C7135;
+    border-radius: 10px;
+}
+.articleComentarios::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+@media only screen and (min-width: 700px) {
+    .articleComentarios {
+        width: 80vw;
+        height: 700px;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .articleComentarios {
+        width: 70vw;
+    }
+}
