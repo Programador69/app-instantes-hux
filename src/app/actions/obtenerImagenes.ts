@@ -174,6 +174,46 @@ export default function ObtenerImagenes() {
             id: 35,
             url: "/decoracionXV2.jpg",
             alt: "Decoración de XV años"
+        },
+        {
+            id: 36,
+            url: "/muebleDecorativo.jpeg",
+            alt: "Decoración"
+        },
+        {
+            id: 37,
+            url: "/arregloFloralMesa.jpeg",
+            alt: "Arreglo floral de mesa"
+        },
+        {
+            id: 38,
+            url: "/decoracionMesas2.jpeg",
+            alt: "Decoración de mesas"
+        },
+        {
+            id: 39,
+            url: "/decoracionMesas.jpeg",
+            alt: "Decoración de mesas"
+        },
+        {
+            id: 40,
+            url: "/arregloFloral.jpeg",
+            alt: "Arreglo floral"
+        },
+        {
+            id: 41,
+            url: "/decoracionBoda2.jpeg",
+            alt: "Decoración de boda"
+        },
+        {
+            id: 42,
+            url: "/decoracionBoda.jpeg",
+            alt: "Decoración de boda"
+        },
+        {
+            id: 43,
+            url: "/parejaBoda.jpeg",
+            alt: "Pareja en su boda"
         }
     ];
 
