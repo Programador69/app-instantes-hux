@@ -2,8 +2,8 @@ export default function ObtenerImagenes() {
     const imagenes = [
         {
             id: 1,
-            url: "/ceremonia.jpeg",
-            alt: "Organizacion de mesas"
+            url: "/personalFestejada.jpeg",
+            alt: "Festejada en su evento"
         },
         {
             id: 2,
@@ -162,8 +162,8 @@ export default function ObtenerImagenes() {
         },
         {
             id: 33,
-            url: "/personalFestejada.jpeg",
-            alt: "Festejada en su evento"
+            url: "/ceremonia.jpeg",
+            alt: "Organizacion de mesas"
         },
         {
             id: 34,
