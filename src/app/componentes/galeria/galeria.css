@@ -42,7 +42,7 @@ h2 {
     position: relative;
 }
 
-.carrusel img {
+.carrusel img, .carrusel video {
     width: 100%;
     height: 650px;
     padding: 0;
@@ -64,7 +64,7 @@ figcaption {
         margin-left: initial;
         display: grid;
         grid-template-columns: repeat(3, min(30vw, 450px));
-        grid-template-rows: repeat(15, max(250px, 25vw));
+        grid-template-rows: repeat(17, max(250px, 25vw));
         column-gap: 15px;
         row-gap: 40px;
         justify-content: center;
@@ -84,7 +84,7 @@ figcaption {
         margin: 0;
     }
     
-    .carrusel img {
+    .carrusel img, .carrusel video {
         width: 100%;
         height: 100%;
         padding: 0;

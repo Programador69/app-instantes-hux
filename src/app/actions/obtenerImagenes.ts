@@ -214,6 +214,36 @@ export default function ObtenerImagenes() {
             id: 43,
             url: "/parejaBoda.jpeg",
             alt: "Pareja en su boda"
+        },
+        {
+            id: 44,
+            url: "/decoracionMesa3.jpeg",
+            alt: "Decoración de mesa"
+        },
+        {
+            id: 45,
+            url: "/decoracionMesa4.jpeg",
+            alt: "Decoración de mesa"
+        },
+        {
+            id: 46,
+            url: "/decoracionMesa5.jpeg",
+            alt: "Decoración de mesa"
+        },
+        {
+            id: 47,
+            url: "/decoracionMesa6.jpeg",
+            alt: "Decoración de mesa"
+        },
+        {
+            id: 48,
+            url: "/adornoPrincipalBoda.jpeg",
+            alt: "Decoración principal"
+        },
+        {
+            id: 49,
+            url: "videoBoda.mp4",
+            alt: "Video de boda"
         }
     ];
 
