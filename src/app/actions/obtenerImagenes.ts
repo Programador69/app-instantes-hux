@@ -242,8 +242,48 @@ export default function ObtenerImagenes() {
         },
         {
             id: 49,
-            url: "videoBoda.mp4",
+            url: "/videoBoda.mp4",
             alt: "Video de boda"
+        },
+        {
+            id: 50,
+            url: "/arregloBoda3.jpeg",
+            alt: "Arreglo de bienvenida"
+        },
+        {
+            id: 51,
+            url: "/arregloMesa.jpeg",
+            alt: "Arreglo de mesa"
+        },
+        {
+            id: 52,
+            url: "/arregloBoda2.jpeg",
+            alt: "Arreglo de bienvenida"
+        },
+        {
+            id: 53,
+            url: "/arregloBoda.jpeg",
+            alt: "Arreglo de bienvenida"
+        },
+        {
+            id: 54,
+            url: "/equipoConPareja.jpeg",
+            alt: "Equipo de Instantes con la pareja"
+        },
+        {
+            id: 55,
+            url: "/mesaNovios.jpeg",
+            alt: "Mesa de los novios"
+        },
+        {
+            id: 56,
+            url: "/arregloTerraza.jpeg",
+            alt: "Arreglo en una terraza"
+        },
+        {
+            id: 57,
+            url: "/arregloEntrada.jpeg",
+            alt: "Arreglo de bienvenida"
         }
     ];
 
