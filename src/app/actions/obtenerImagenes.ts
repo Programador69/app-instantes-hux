@@ -284,6 +284,36 @@ export default function ObtenerImagenes() {
             id: 57,
             url: "/arregloEntrada.jpeg",
             alt: "Arreglo de bienvenida"
+        },
+        {
+            id: 58,
+            url: "/decoracion18anos.jpeg",
+            alt: "Decoración fiesta 18 años"
+        },
+        {
+            id: 59,
+            url: "/decoracionPostres.jpeg",
+            alt: "Decoración de mesa de postres"
+        },
+        {
+            id: 60,
+            url: "/decoracion57anos.jpeg",
+            alt: "Decoración fiesta 57 años"
+        },
+        {
+            id: 61,
+            url: "/decoracionMesa7.jpeg",
+            alt: "Decoración de mesa"
+        },
+        {
+            id: 61,
+            url: "/decoracionMesa8.jpeg",
+            alt: "Decoración de mesa"
+        },
+        {
+            id: 63,
+            url: "/decoracionMesa9.jpeg",
+            alt: "Decoración de mesa"
         }
     ];
 
