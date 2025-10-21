@@ -306,7 +306,7 @@ export default function ObtenerImagenes() {
             alt: "Decoración de mesa"
         },
         {
-            id: 61,
+            id: 62,
             url: "/decoracionMesa8.jpeg",
             alt: "Decoración de mesa"
         },
@@ -314,6 +314,61 @@ export default function ObtenerImagenes() {
             id: 63,
             url: "/decoracionMesa9.jpeg",
             alt: "Decoración de mesa"
+        },
+        {
+            id: 64,
+            url: "/festejadaXV.jpeg",
+            alt: "Festejada en su evento"
+        },
+        {
+            id: 65,
+            url: "/baileFestejadaXV.jpeg",
+            alt: "Baile de la festejada"
+        },
+        {
+            id: 66,
+            url: "/balsXV2.jpeg",
+            alt: "Baile de la festejada"
+        },
+        {
+            id: 67,
+            url: "/adornoXV.jpeg",
+            alt: "Adorno de XV años"
+        },
+        {
+            id: 68,
+            url: "/equipoAdornoXV.jpeg",
+            alt: "Equipo de Instantes con adorno de XV años"
+        },
+        {
+            id: 69,
+            url: "/videoXV.mp4",
+            alt: "Video de XV años"
+        },
+        {
+            id: 70,
+            url: "/adornoXV2.jpeg",
+            alt: "Adorno de XV años"
+        },
+        {
+            id: 71,
+            url: "/adornoMesaPrincipal.jpeg",
+            alt: "Adorno de mesa principal"
+        },
+        {
+            id: 72,
+            url: "/adornoVistaMar.jpeg",
+            alt: "Adorno con vista al mar"
+        },
+        {
+            id: 73,
+            url: "/adornoVistaMar2.jpeg",
+            alt: "Adorno con vista al mar"
+        },
+        {
+            id: 74,
+            url: "/equipoTrabajando.jpeg",
+            alt: "Equipo de Instantes trabajando"
         }
     ];
 
