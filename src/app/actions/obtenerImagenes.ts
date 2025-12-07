@@ -369,6 +369,26 @@ export default function ObtenerImagenes() {
             id: 74,
             url: "/equipoTrabajando.jpeg",
             alt: "Equipo de Instantes trabajando"
+        },
+        {
+            id: 75,
+            url: "/adornoMesa.jpeg",
+            alt: "Adorno de mesa principal"
+        },
+        {
+            id: 76,
+            url: "/adornoMesa2.jpeg",
+            alt: "Adorno de mesa principal"
+        },
+        {
+            id: 77,
+            url: "/adornoFiesta.jpeg",
+            alt: "Adorno de fiesta"
+        },
+        {
+            id: 78,
+            url: "/festejadosYAdorno.jpeg",
+            alt: "Festejados con adorno"
         }
     ];
 
