@@ -383,12 +383,162 @@ export default function ObtenerImagenes() {
         {
             id: 77,
             url: "/adornoFiesta.jpeg",
-            alt: "Adorno de fiesta"
+            alt: "Decoraciión bienvenida de boda"
         },
         {
             id: 78,
             url: "/festejadosYAdorno.jpeg",
             alt: "Festejados con adorno"
+        },
+        {
+            id: 79,
+            url: '/instantesHux (1).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (2).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (3).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (4).jpeg',
+            alt: 'Decoración Posada'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (5).jpeg',
+            alt: 'Convivio Posada'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (6).jpeg',
+            alt: 'Carro de comida'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (7).jpeg',
+            alt: 'Posada Instantes'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (8).jpeg',
+            alt: 'Trompo de comida'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (9).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (10).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (11).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (12).jpeg',
+            alt: 'Fotografia y fotos instantaneas'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (13).jpeg',
+            alt: 'Fotografia y fotos instantaneas'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (14).jpeg',
+            alt: 'Parrillada'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (15).jpeg',
+            alt: 'Parrillada'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (16).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (17).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (18).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (19).jpeg',
+            alt: 'Menú Navideño'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (20).jpeg',
+            alt: 'Decoración Navideña'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (21).jpeg',
+            alt: 'Animación de eventos'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (22).jpeg',
+            alt: 'Fotografia de bodas'
+        },
+        {
+            id: 80,
+            url: '/instantesHux (23).jpeg',
+            alt: 'Fotografia de bodas'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (24).jpeg',
+            alt: 'Fotografia de bodas'
+        },
+        {
+            id: 81,
+            url: '/instantesHux (25).jpeg',
+            alt: 'Fotografia de bodas'
+        },
+        {
+            id: 79,
+            url: '/instantesHux (26).jpeg',
+            alt: 'Fotografia de bodas'
+        },
+        {
+            id: 80,
+            url: '/videoInstantesHux (1).mp4',
+            alt: 'Posada Instantes Hux'
+        },
+        {
+            id: 81,
+            url: '/videoInstantesHux (2).mp4',
+            alt: 'Animación de Evento'
+        },
+        {
+            id: 79,
+            url: '/videoInstantesHux (3).mp4',
+            alt: 'Entrada de los novios'
+        },
+        {
+            id: 80,
+            url: '/videoInstantesHux (4).mp4',
+            alt: 'Primer baile de los novios'
         }
     ];
 
