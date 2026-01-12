@@ -539,6 +539,31 @@ export default function ObtenerImagenes() {
             id: 80,
             url: '/videoInstantesHux (4).mp4',
             alt: 'Primer baile de los novios'
+        },
+        {
+            id: 81,
+            url: '/videoInstantesHux (5).mp4',
+            alt: 'Baile XV años'
+        },
+        {
+            id: 82,
+            url: '/videoInstantesHux (6).mp4',
+            alt: 'Baile XV años'
+        },
+        {
+            id: 83,
+            url: '/videoInstantesHux (7).mp4',
+            alt: 'Baile XV años'
+        },
+        {
+            id: 84,
+            url: '/instantesHux (27).jpeg',
+            alt: 'XVañera'
+        },
+        {
+            id: 85,
+            url: '/instantesHux (28).jpeg',
+            alt: 'XVañera en su evento'
         }
     ];
 
