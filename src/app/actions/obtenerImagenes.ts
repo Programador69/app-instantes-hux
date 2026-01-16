@@ -564,6 +564,11 @@ export default function ObtenerImagenes() {
             id: 85,
             url: '/instantesHux (28).jpeg',
             alt: 'XVañera en su evento'
+        },
+        {
+            id: 86,
+            url: '/videoInstantesHux.mp4',
+            alt: 'Coreografia XV años'
         }
     ];
 
