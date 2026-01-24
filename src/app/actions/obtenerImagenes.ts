@@ -406,167 +406,172 @@ export default function ObtenerImagenes() {
             alt: 'Decoración Navideña'
         },
         {
-            id: 79,
+            id: 82,
             url: '/instantesHux (4).jpeg',
             alt: 'Decoración Posada'
         },
         {
-            id: 80,
+            id: 83,
             url: '/instantesHux (5).jpeg',
             alt: 'Convivio Posada'
         },
         {
-            id: 81,
+            id: 84,
             url: '/instantesHux (6).jpeg',
             alt: 'Carro de comida'
         },
         {
-            id: 79,
+            id: 85,
             url: '/instantesHux (7).jpeg',
             alt: 'Posada Instantes'
         },
         {
-            id: 80,
+            id: 86,
             url: '/instantesHux (8).jpeg',
             alt: 'Trompo de comida'
         },
         {
-            id: 81,
+            id: 87,
             url: '/instantesHux (9).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 79,
+            id: 88,
             url: '/instantesHux (10).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 80,
+            id: 89,
             url: '/instantesHux (11).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 81,
+            id: 90,
             url: '/instantesHux (12).jpeg',
             alt: 'Fotografia y fotos instantaneas'
         },
         {
-            id: 79,
+            id: 91,
             url: '/instantesHux (13).jpeg',
             alt: 'Fotografia y fotos instantaneas'
         },
         {
-            id: 80,
+            id: 92,
             url: '/instantesHux (14).jpeg',
             alt: 'Parrillada'
         },
         {
-            id: 81,
+            id: 93,
             url: '/instantesHux (15).jpeg',
             alt: 'Parrillada'
         },
         {
-            id: 79,
+            id: 94,
+            url: '/instantesHux (16).jpeg',
+            alt: 'Parrillada'
+        },
+        {
+            id: 95,
             url: '/instantesHux (16).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 80,
+            id: 96,
             url: '/instantesHux (17).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 81,
+            id: 97,
             url: '/instantesHux (18).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 79,
+            id: 98,
             url: '/instantesHux (19).jpeg',
             alt: 'Menú Navideño'
         },
         {
-            id: 80,
+            id: 99,
             url: '/instantesHux (20).jpeg',
             alt: 'Decoración Navideña'
         },
         {
-            id: 81,
+            id: 100,
             url: '/instantesHux (21).jpeg',
             alt: 'Animación de eventos'
         },
         {
-            id: 79,
+            id: 101,
             url: '/instantesHux (22).jpeg',
             alt: 'Fotografia de bodas'
         },
         {
-            id: 80,
+            id: 102,
             url: '/instantesHux (23).jpeg',
             alt: 'Fotografia de bodas'
         },
         {
-            id: 81,
+            id: 103,
             url: '/instantesHux (24).jpeg',
             alt: 'Fotografia de bodas'
         },
         {
-            id: 81,
+            id: 104,
             url: '/instantesHux (25).jpeg',
             alt: 'Fotografia de bodas'
         },
         {
-            id: 79,
+            id: 105,
             url: '/instantesHux (26).jpeg',
             alt: 'Fotografia de bodas'
         },
         {
-            id: 80,
+            id: 106,
             url: '/videoInstantesHux (1).mp4',
             alt: 'Posada Instantes Hux'
         },
         {
-            id: 81,
+            id: 107,
             url: '/videoInstantesHux (2).mp4',
             alt: 'Animación de Evento'
         },
         {
-            id: 79,
+            id: 108,
             url: '/videoInstantesHux (3).mp4',
             alt: 'Entrada de los novios'
         },
         {
-            id: 80,
+            id: 109,
             url: '/videoInstantesHux (4).mp4',
             alt: 'Primer baile de los novios'
         },
         {
-            id: 81,
+            id: 110,
             url: '/videoInstantesHux (5).mp4',
             alt: 'Baile XV años'
         },
         {
-            id: 82,
+            id: 111,
             url: '/videoInstantesHux (6).mp4',
             alt: 'Baile XV años'
         },
         {
-            id: 83,
+            id: 112,
             url: '/videoInstantesHux (7).mp4',
             alt: 'Baile XV años'
         },
         {
-            id: 84,
+            id: 113,
             url: '/instantesHux (27).jpeg',
             alt: 'XVañera'
         },
         {
-            id: 85,
+            id: 114,
             url: '/instantesHux (28).jpeg',
             alt: 'XVañera en su evento'
         },
         {
-            id: 86,
+            id: 115,
             url: '/videoInstantesHux.mp4',
             alt: 'Coreografia XV años'
         }
